@@ -1,5 +1,7 @@
 # jupyter-playground
-Jupyter distribution embedded in a docker simple with all scientific packages
+Jupyter distribution with all scientific packages embedded in a simple docker
 
 ## How to launch
+```
   make run theme=neat
+```
