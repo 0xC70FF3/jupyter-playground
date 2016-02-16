@@ -1,0 +1,30 @@
+# Extract data from Excel spreadsheets
+xlrd
+# Easy HTTP calls
+requests
+# World timezone definitions
+pytz
+# Extention to the datetime module
+python-dateutil
+# YAML config parsing
+pyyaml
+# Fundamental library for scientific computing
+scipy
+# Comprehensive 2D Plotting
+matplotlib
+# API for exporting matplotlib graphics to HTML code
+mpld3
+# Statistical data visualization
+seaborn
+# Enhanced Interactive Console
+ipython
+# Data structures & analysis
+pandas
+# Machine learning
+scikit-learn
+# Symbolic mathematics
+sympy
+# Explore data, estimate statistical models
+statsmodels
+# Unittest explorer
+nose

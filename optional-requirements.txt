@@ -1,0 +1,15 @@
+# Elasticsearch database
+elasticsearch
+elasticsearch_dsl
+# Geocoding Toolbox
+geopy
+# Worldwide holidays and working days helper and toolkit
+workalendar
+# Getting timezone from lon/lat
+tzwhere
+# Dead-simple Kalman Filter, Kalman Smoother
+pykalman
+# Python wrapper for the foursquare API.
+foursquare
+# Maps on INotebooks
+folium
